@@ -1,0 +1,20 @@
+fun main(){
+    val age = 5*365
+    val name = "Shudhanshu Raj"
+    
+    println("Happy Birthday, ${name}!")
+    
+    // this is code for cake 
+    println("  ,,,,,, ")
+    println("  |||||| ")
+    println(" ======== ")
+    println("@@@@@@@@@@@")
+    println("{~@~@~@~@~}")
+    println("@@@@@@@@@@@")
+    
+    // This print an empty line.
+    println(" ")
+    
+    println("You are already ${age} days old, $(name)!")
+    print("${age} days old  ia the very best age to celebrate!")
+}
