@@ -1,0 +1,16 @@
+//border in birthday card 
+
+
+fun main()
+{
+    printborder()
+    println("Happy Birthday, Shudhanshu!")
+    printborder()
+}
+fun printborder()
+{
+    repeat(27){
+        print("-")
+    }
+    println()
+}
